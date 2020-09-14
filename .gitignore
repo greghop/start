@@ -1,0 +1,16 @@
+# python and jupyter
+*.pyc
+*.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# back-up files
+*~
+*#
+~$*
+
+tmp/
+.venvfiles/
+.logs/

@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": ".venvfiles\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "c:\\Users\\tata\\Projects\\files;c:\\Users\\tata\\Projects\\files\\src",
+  },
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+
+}
