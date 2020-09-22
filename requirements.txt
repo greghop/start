@@ -1,3 +1,17 @@
 pandas
+tables
+jupyter
 jupyterlab
 matplotlib
+seaborn
+
+
+# featuretools
+# ipywidgets>=7.5
+# dask[bag]>=1.0.0
+# tqdm>=4.19.2
+# catboost
+# sqlalchemy
+# pyodbc
+# graphviz>=0.10.1
+# scikit-plot

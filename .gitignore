@@ -12,5 +12,4 @@
 ~$*
 
 tmp/
-.venvfiles/
 .logs/
