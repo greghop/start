@@ -6,4 +6,13 @@
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
 
+
+  // "code-runner.executorMap": {
+  //   "python": "export PYTHONPATH=\"$PYTHONPATH:$workspaceRoot:$workspaceRoot/src\";$pythonPath -u $fullFileName", 
+  //   "shellscript": "zsh"
+  // },
+  // "code-runner.clearPreviousOutput": true, 
+  // // "code-runner.cwd": "$workspaceRoot", 
+  // "code-runner.showExecutionMessage": false,
+
 }
